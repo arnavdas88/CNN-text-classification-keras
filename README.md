@@ -5,7 +5,6 @@ It is simplified implementation of [Implementing a CNN for Text Classification i
 # Requirements
 - [Python 3.5.2](https://www.python.org/)
 - [Keras 2.1.2](http://keras.io/)
-- [Tensorflow 1.4.1](https://www.tensorflow.org/)
 
 # Traning
 Run the below command and it will run for 100 epochs if you want change it just open [model.py](https://github.com/bhaveshoswal/CNN-text-classification-keras/blob/master/model.py)
